@@ -1,0 +1,11 @@
+NUMBER,NAME,LAT,LON
+1,Statue of Liberty,40.689502,-74.044468
+2,Central Park,40.771648,-73.972396
+3,Rockefeller Center,40.759033,-73.978695
+4,Metropolitan Museum of Art,40.779705,-73.963223
+5,The Theater District,40.761097,-73.984722
+6,Empire State Building,40.748676,-73.985718
+7,9/11 Memorial,40.71,-74.01
+8,High Line,40.74,-74.00
+9,Times Square,40.76,-73.98
+10,Brooklyn Bridge,40.70,-73.99
